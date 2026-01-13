@@ -1,0 +1,33 @@
+body {
+    background-color: #fff7ed;
+    font-family: cursive;
+    text-align: center;
+    color: #92400e;
+}
+h1 {
+    background-color: #fde68a;
+}
+div p  {
+    background-color:  #fed7aa;
+}
+div p a {
+    text-decoration: none;
+    color: #92400e;
+    font-size: 18px;
+    font-weight: 600;
+}
+div a:hover {
+    background-color: brown;
+    color: white;
+}
+.pic {
+    text-align: center;
+}
+.gioithieu  {
+    background-color: white;
+    text-align: left;
+}
+.gioithieu p  {
+    background-color: white;
+    text-align: left;
+}
