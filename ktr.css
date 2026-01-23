@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+    gap: 60px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.title h1 {
+    font-weight: 600;
+    font-size: 36px;
+}
+.icon {
+    display: flex;
+    gap: 8px;
+}
+.up {
+    display: flex;
+    gap: 30;
+}
+.down {
+    display: flex;
+    gap: 30;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.detail {
+    display: flex;
+    gap: 2px;
+    align-items: center;
+}
+.money {
+    color: #DB4444;
+}
+.img {
+    width: 270px;
+    height: 250px;
+}
